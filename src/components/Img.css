@@ -1,0 +1,21 @@
+.Img{
+
+  width: 100px;
+  height: 100px;
+  display: flex;
+  align-content: center;
+  margin-left: 55px;
+}
+.wrapper-card{
+  margin-top: 20px;
+  flex-direction: row;
+  flex-wrap: wrap;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+
+.button{
+  margin-top: 20px;
+}
